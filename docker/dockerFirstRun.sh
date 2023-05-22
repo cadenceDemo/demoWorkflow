@@ -1,0 +1,1 @@
+docker run -p 9092:8080 --network="bridge" --privileged --name demoworkflow demoworkflow
